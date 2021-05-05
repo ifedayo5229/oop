@@ -1,0 +1,13 @@
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.csprojAssemblyReference.cache
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.AssemblyInfo.cs
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\bin\BNB\Debug\netcoreapp3.1\oop.exe
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\bin\BNB\Debug\netcoreapp3.1\oop.deps.json
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\bin\BNB\Debug\netcoreapp3.1\oop.runtimeconfig.json
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\bin\BNB\Debug\netcoreapp3.1\oop.runtimeconfig.dev.json
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\bin\BNB\Debug\netcoreapp3.1\oop.dll
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\bin\BNB\Debug\netcoreapp3.1\oop.pdb
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.dll
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.pdb
+C:\Users\Elena\Desktop\c# Classes sbsc\oop\obj\BNB\Debug\netcoreapp3.1\oop.genruntimeconfig.cache
