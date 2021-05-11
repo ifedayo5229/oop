@@ -1,0 +1,13 @@
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.csprojAssemblyReference.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfoInputs.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.AssemblyInfo.cs
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.csproj.CoreCompileInputs.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\bin\Debug\netcoreapp3.1\oop.exe
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\bin\Debug\netcoreapp3.1\oop.deps.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\bin\Debug\netcoreapp3.1\oop.runtimeconfig.dev.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\bin\Debug\netcoreapp3.1\oop.dll
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\bin\Debug\netcoreapp3.1\oop.pdb
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.dll
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.pdb
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\oop\obj\Debug\netcoreapp3.1\oop.genruntimeconfig.cache

@@ -25,12 +25,24 @@ namespace oop
         //    cte.firstName="ife";
         //    cte.lastName="seun";
         //    cte.printfullname();
-        parentclass parent = new parentclass();
-        parent.printparentclass();
-         subclass sub = new subclass();
-        sub.printanothersubclass();
-        sub.printparentclass();
+        // parentclass parent = new parentclass();
+        // parent.printparentclass();
+        //  subclass sub = new subclass();
+        // sub.printanothersubclass();
+        // sub.printparentclass();
+        Square shape = new Square();
+        shape.ThisisShape();
+        shape.subclas();
         }
+    }
+
+
+    public class Square : Rectangle
+    {
+      public void subclas()
+      {
+        Console.WriteLine("square is rectangle");
+      }
     }
 
       /*  Polymorphism(many forms)in c# is a concept by which we can perform a single action in different ways.
@@ -40,41 +52,46 @@ namespace oop
 
        // child class or derived
     //  public class parttimeemployee:Employee
-    //  {
-    //       public new void printfullname() // override can be used
-    //   {
-    //       Console.WriteLine(firstName+ " " + lastName +"  cte staff");
-    //   }
-    //  }
+    public class Circle : Shape
+     {
+          public new void ThisCircle() // override can be used
+      {
+          Console.WriteLine("this is circle");
+      }
+     }
 
      //child class or derived
     //  public class ContractEmployee:Employee
-     public class subclass:parentclass
+    //  public class subclass:parentclass
+    public class Rectangle : Shape
      
      {
 
 
 
     //   public new void  printfullname() // override can be used
-    public  new void printanothersubclass()
+    // public  new void printanothersubclass()
+    public void ThisRectangle()
       {
         //   Console.WriteLine(firstName+ " " + lastName +"  pte staff");
-         Console.WriteLine(" this is subclass");
+         Console.WriteLine(" this is rectangle shape");
       }
      }
        //  base clASS their father
     //  public class Employee
-    public class parentclass
+    // public class parentclass
+    public class Shape
      {
         //  public string firstName;
         //  public string lastName;
 
     //   public void printfullname()
      // override with virtual here
-     public  void printparentclass()
+    //  public  void printparentclass()
+     public void ThisisShape()
       {
         //   Console.WriteLine(firstName+ " " + lastName);
-           Console.WriteLine( " this is a parent class ");
+           Console.WriteLine( " this is Shape Class ");
       }
 
     
