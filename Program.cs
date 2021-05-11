@@ -54,7 +54,7 @@ namespace oop
     //  public class parttimeemployee:Employee
     public class Circle : Shape
      {
-          public new void ThisCircle() // override can be used
+          public  void ThisCircle() // override can be used
       {
           Console.WriteLine("this is circle");
       }
